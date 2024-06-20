@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Senesh Chanuka Sirimanne</h1>
 <h3 align="center">I design and develop custom web experiences that engage users.</h3>
 
+<p>I bring visual narratives to life through UI/UX engineering and front-end development. My passion for design extends beyond the screen, as I'm also a graphic designer and digital art enthusiast. I thrive on technical challenges and am always eager to learn and push boundaries in the ever-evolving digital landscape.</p>
+
 - 📫 How to reach me **seneshsirimanne@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
