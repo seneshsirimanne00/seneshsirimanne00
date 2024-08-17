@@ -2,8 +2,10 @@
 <h3 align="center">I design and develop custom web experiences that engage users.</h3>
 
 <p>I bring visual narratives to life through UI/UX engineering and front-end development. My passion for design extends beyond the screen, as I'm also a graphic designer and digital art enthusiast. I thrive on technical challenges and am always eager to learn and push boundaries in the ever-evolving digital landscape.</p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=seneshsirimanne00&label=Profile%20views&color=0e75b6&style=flat" alt="seneshSirimanne" /> </p> -->
 
 - 📫 How to reach me **seneshsirimanne@gmail.com**
+- 📄 Know about my experiences on <a href="https://www.linkedin.com/in/seneshsirimanne-748123305/"><strong>LinkedIn</strong></a></li>
 
 <!--
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=seneshsirimanne00&label=Profile%20views&color=0e75b6&style=flat" alt="seneshsirimanne00" /> </p>
